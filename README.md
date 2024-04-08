@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/RyanLau0w0">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="RyanLau0w0 GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RyanLau0w0&theme=radical&border=7F3FBF&background=0D1117" alt="RyanLau0w0 GitHub streak"/>
   </a>
 </p>
     <a href="https://github.com/RyanLau0w0"><img alt="RyanLau0w0's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=RyanLau0w0&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
