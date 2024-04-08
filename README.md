@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **RyanLau0w0/RyanLau0w0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+Fellow+Stranger;My+name+is+Ryan+Lau;You+have+come+here+for+two+reasons;You+need+to+clone+a+repository;Or+you+are+here+to+check+my+experience" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Hello+Fellow+Stranger;My+name+is+Ryan+Lau;I+have+no+socials+as+of+yet%2C+sorry+%3A(" alt="Typing SVG" /></a>
